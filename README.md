@@ -1,4 +1,4 @@
-# ts-i18n craco example [(try live)](https://domdomegg.github.io/ts-i18n-craco-example/)
+# ts-i18n craco example [(try live)](https://adamjones.me/ts-i18n-craco-example/)
 
 This is an example project that shows how to use ts-i18n with create-react-app
 
