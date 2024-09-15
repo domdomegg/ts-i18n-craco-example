@@ -2,6 +2,7 @@
   "name": "ts-i18n-craco-example",
   "version": "0.1.0",
   "private": true,
+  "license": "CC0-1.0",
   "dependencies": {
     "@craco/craco": "^7.0.0-alpha.7",
     "@testing-library/jest-dom": "^5.16.5",
